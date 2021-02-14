@@ -1,0 +1,2 @@
+some init text
+for this lab
