@@ -1,2 +1,2 @@
-some init text
+some init text new
 for this lab
